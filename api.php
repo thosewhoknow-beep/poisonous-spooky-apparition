@@ -1,7 +1,7 @@
 <?php
 
 // IP or URL to Xtream-Codes
-define('IP','https://lucidhosting.net:82');
+define('IP','http://lucidhosting.net:82');
 
 function apixtream($url_api){	
 $ch = curl_init();	
